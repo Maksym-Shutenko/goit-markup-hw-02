@@ -47,13 +47,20 @@ button {
 }
 
 .item-link {
-   color: #434455;
+   olor: #2e2f42;
    font-weight: 500;
    line-height: 1.5;
    letter-spacing: 0.02em;
 }
+.item-adr{
+   color: #434455;
+}
 .item-link:hover,
 .item-link:focus{
+   color: #404BBF;
+}
+.item-adr:hover,
+.item-adr:focus {
    color: #404BBF;
 }
 
